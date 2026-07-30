@@ -25,7 +25,7 @@ To run the code locally, ensure you have the following installed:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/[YOUR_USERNAME]/engineering-probability-statistics.git
+    git clone https://github.com/SoruSvtr/Probability-and-Statistics.git
     cd engineering-probability-statistics
 2. Navigate to a specific chapter folder and read its README.md for the problems.
 3. Run the Python scripts or R scripts inside the solutions/ subfolders.
