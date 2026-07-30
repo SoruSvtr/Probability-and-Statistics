@@ -12,5 +12,11 @@ Roll two 6-sided dice. What's the probability of the sum of shown numbers equals
 - **Python Solution:** [solutions/python/q2.py](solutions/python/q2.py)
 - **R Solution:** [solutions/r/q2.R](solutions/r/q2.R)
 
+### Problem 3:
+Consider 5 card poker hand. "Straight" is a consecutive rank cards of any suit. What is P(Straight)?(Order does not matter)
+
+- **Python Solution:** [solutions/python/q3.py](solutions/python/q3.py)
+- **R Solution:** [solutions/r/q3.R](solutions/r/q3.R)
+
 ## 📊 Datasets
 If any datasets are required for the problems above, they will be placed in the [`data/`](data/) folder.
